@@ -1,14 +1,15 @@
 #include <iostream>
 #include <vector>
+#include <memory>
 
 
 void dyn_array_fill(int size,std::vector<int>& ar){
     std::cout<<"enter "<<size<<" cif: ";
     for (int i=0;i<size;i++){
-        int *cif= new int(i);
+        auto cif= std::make_unique<int>(); //умный указатель на исключительное владение этой памятью
         std::cin>> *cif;
         ar[i] = *cif;
-        //delete cif; утечка
+        
     }
     std::cout<<"your arr: ";
     for (int i=0;i<size;i++){
@@ -17,8 +18,8 @@ void dyn_array_fill(int size,std::vector<int>& ar){
 
 }
 
-int* auto_dyn_array_fill(int size){
-    int *auto_cif_arr= new int[size];
+std::unique_ptr<int []> auto_dyn_array_fill(int size){
+    auto auto_cif_arr= std::make_unique<int[]>(size);
     for (int i=0;i<size;i++){
         auto_cif_arr[i] = i+1;
     }
@@ -31,12 +32,11 @@ int main(){
     std::cout<<"enter size: ";
     std::cin>>size;
     std::cout<<"auto_cif_array: ";
-    int *arr = auto_dyn_array_fill(size);
+    auto arr = auto_dyn_array_fill(size);
     for (int i=0;i<size;i++){
         std::cout<<arr[i]<<" ";
     } 
     std::cout<<std::endl;
-    delete [] arr;//утечки нет
     
     std::vector <int> ar(size);
     dyn_array_fill(size,ar);

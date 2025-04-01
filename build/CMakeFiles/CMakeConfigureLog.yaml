@@ -24,7 +24,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.11.9+a69bbaaf5 ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 16:34:23.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 17:13:19.
       
       ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\3.31.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -62,7 +62,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:08.02
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:05.06
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -88,7 +88,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.11.9+a69bbaaf5 ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 16:34:32.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 17:13:25.
       
       ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\3.31.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -126,7 +126,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:07.04
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:04.66
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -145,8 +145,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-5ys3d5"
-      binary: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-5ys3d5"
+      source: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-0z99yk"
+      binary: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-0z99yk"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -155,49 +155,49 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-5ys3d5'
+        Change Dir: 'C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-0z99yk'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_bf87c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ecfbd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.11.9+a69bbaaf5 ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 16:34:39.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 17:13:30.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\cmTC_bf87c.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\cmTC_ecfbd.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_bf87c.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_ecfbd.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\unsuccessfulbuild".
         VcpkgTripletSelection:
           Using triplet "x64-windows" from "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\"
           Using normalized configuration "Debug"
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf87c.dir\\Debug\\\\" /Fd"cmTC_bf87c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ecfbd.dir\\Debug\\\\" /Fd"cmTC_ecfbd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.41.34120 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf87c.dir\\Debug\\\\" /Fd"cmTC_bf87c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ecfbd.dir\\Debug\\\\" /Fd"cmTC_ecfbd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\Debug\\cmTC_bf87c.exe" /INCREMENTAL /ILK:"cmTC_bf87c.dir\\Debug\\cmTC_bf87c.ilk" /NOLOGO /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-5ys3d5/Debug/cmTC_bf87c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-5ys3d5/Debug/cmTC_bf87c.lib" /MACHINE:X64  /machine:x64 cmTC_bf87c.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_bf87c.vcxproj -> C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\Debug\\cmTC_bf87c.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\Debug\\cmTC_ecfbd.exe" /INCREMENTAL /ILK:"cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.ilk" /NOLOGO /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-0z99yk/Debug/cmTC_ecfbd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-0z99yk/Debug/cmTC_ecfbd.lib" /MACHINE:X64  /machine:x64 cmTC_ecfbd.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_ecfbd.vcxproj -> C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\Debug\\cmTC_ecfbd.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\Debug\\cmTC_bf87c.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\cmTC_bf87c.write.1u.tlog" "cmTC_bf87c.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\Debug\\cmTC_ecfbd.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\cmTC_ecfbd.write.1u.tlog" "cmTC_ecfbd.dir\\Debug\\vcpkg.applocal.log"
           "pwsh.exe" ╨╜╨╡ ╤П╨▓╨╗╤П╨╡╤В╤Б╤П ╨▓╨╜╤Г╤В╤А╨╡╨╜╨╜╨╡╨╣ ╨╕╨╗╨╕ ╨▓╨╜╨╡╤И╨╜╨╡╨╣
           ╨║╨╛╨╝╨░╨╜╨┤╨╛╨╣, ╨╕╤Б╨┐╨╛╨╗╨╜╤П╨╡╨╝╨╛╨╣ ╨┐╤А╨╛╨│╤А╨░╨╝╨╝╨╛╨╣ ╨╕╨╗╨╕ ╨┐╨░╨║╨╡╤В╨╜╤Л╨╝ ╤Д╨░╨╣╨╗╨╛╨╝.
-          ╨Т╤Л╤Е╨╛╨┤ ╨╕╨╖ ╨║╨╛╨╝╨░╨╜╨┤╤Л "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\Debug\\cmTC_bf87c.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\cmTC_bf87c.write.1u.tlog" "cmTC_bf87c.dir\\Debug\\vcpkg.applocal.log"" ╤Б ╨║╨╛╨┤╨╛╨╝ 9009.
-          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\Debug\\cmTC_bf87c.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\cmTC_bf87c.write.1u.tlog" "cmTC_bf87c.dir\\Debug\\vcpkg.applocal.log"
+          ╨Т╤Л╤Е╨╛╨┤ ╨╕╨╖ ╨║╨╛╨╝╨░╨╜╨┤╤Л "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\Debug\\cmTC_ecfbd.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\cmTC_ecfbd.write.1u.tlog" "cmTC_ecfbd.dir\\Debug\\vcpkg.applocal.log"" ╤Б ╨║╨╛╨┤╨╛╨╝ 9009.
+          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\Debug\\cmTC_ecfbd.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\cmTC_ecfbd.write.1u.tlog" "cmTC_ecfbd.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_bf87c.dir\\Debug\\cmTC_bf87c.tlog\\cmTC_bf87c.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-5ys3d5\\cmTC_bf87c.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_ecfbd.dir\\Debug\\cmTC_ecfbd.tlog\\cmTC_ecfbd.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0z99yk\\cmTC_ecfbd.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:06.18
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:04.72
         
       exitCode: 0
   -
@@ -237,8 +237,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-vlotli"
-      binary: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-vlotli"
+      source: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-mivy07"
+      binary: "C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-mivy07"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -248,49 +248,49 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-vlotli'
+        Change Dir: 'C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-mivy07'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_48482.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5acbf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.11.9+a69bbaaf5 ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 16:34:46.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 01.04.2025 17:13:35.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\cmTC_48482.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\cmTC_5acbf.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_48482.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_5acbf.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\unsuccessfulbuild".
         VcpkgTripletSelection:
           Using triplet "x64-windows" from "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\"
           Using normalized configuration "Debug"
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_48482.dir\\Debug\\\\" /Fd"cmTC_48482.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5acbf.dir\\Debug\\\\" /Fd"cmTC_5acbf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.41.34120 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_48482.dir\\Debug\\\\" /Fd"cmTC_48482.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /I"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\include" /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5acbf.dir\\Debug\\\\" /Fd"cmTC_5acbf.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\Debug\\cmTC_48482.exe" /INCREMENTAL /ILK:"cmTC_48482.dir\\Debug\\cmTC_48482.ilk" /NOLOGO /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-vlotli/Debug/cmTC_48482.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-vlotli/Debug/cmTC_48482.lib" /MACHINE:X64  /machine:x64 cmTC_48482.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_48482.vcxproj -> C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\Debug\\cmTC_48482.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\Debug\\cmTC_5acbf.exe" /INCREMENTAL /ILK:"cmTC_5acbf.dir\\Debug\\cmTC_5acbf.ilk" /NOLOGO /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib" /LIBPATH:"C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\manual-link" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\lib\\*.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-mivy07/Debug/cmTC_5acbf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Professional/laba3_OOP/build/CMakeFiles/CMakeScratch/TryCompile-mivy07/Debug/cmTC_5acbf.lib" /MACHINE:X64  /machine:x64 cmTC_5acbf.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_5acbf.vcxproj -> C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\Debug\\cmTC_5acbf.exe
         AppLocalFromInstalled:
-          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\Debug\\cmTC_48482.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\cmTC_48482.write.1u.tlog" "cmTC_48482.dir\\Debug\\vcpkg.applocal.log"
+          pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\Debug\\cmTC_5acbf.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\cmTC_5acbf.write.1u.tlog" "cmTC_5acbf.dir\\Debug\\vcpkg.applocal.log"
           "pwsh.exe" ╨╜╨╡ ╤П╨▓╨╗╤П╨╡╤В╤Б╤П ╨▓╨╜╤Г╤В╤А╨╡╨╜╨╜╨╡╨╣ ╨╕╨╗╨╕ ╨▓╨╜╨╡╤И╨╜╨╡╨╣
           ╨║╨╛╨╝╨░╨╜╨┤╨╛╨╣, ╨╕╤Б╨┐╨╛╨╗╨╜╤П╨╡╨╝╨╛╨╣ ╨┐╤А╨╛╨│╤А╨░╨╝╨╝╨╛╨╣ ╨╕╨╗╨╕ ╨┐╨░╨║╨╡╤В╨╜╤Л╨╝ ╤Д╨░╨╣╨╗╨╛╨╝.
-          ╨Т╤Л╤Е╨╛╨┤ ╨╕╨╖ ╨║╨╛╨╝╨░╨╜╨┤╤Л "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\Debug\\cmTC_48482.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\cmTC_48482.write.1u.tlog" "cmTC_48482.dir\\Debug\\vcpkg.applocal.log"" ╤Б ╨║╨╛╨┤╨╛╨╝ 9009.
-          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\Debug\\cmTC_48482.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\cmTC_48482.write.1u.tlog" "cmTC_48482.dir\\Debug\\vcpkg.applocal.log"
+          ╨Т╤Л╤Е╨╛╨┤ ╨╕╨╖ ╨║╨╛╨╝╨░╨╜╨┤╤Л "pwsh.exe -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\Debug\\cmTC_5acbf.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\cmTC_5acbf.write.1u.tlog" "cmTC_5acbf.dir\\Debug\\vcpkg.applocal.log"" ╤Б ╨║╨╛╨┤╨╛╨╝ 9009.
+          "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" -ExecutionPolicy Bypass -noprofile -File "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\scripts\\buildsystems\\msbuild\\applocal.ps1" "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\Debug\\cmTC_5acbf.exe" "C:\\labs.oop\\timer_manager-dinnksus\\vcpkg\\installed\\x64-windows\\debug\\bin" "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\cmTC_5acbf.write.1u.tlog" "cmTC_5acbf.dir\\Debug\\vcpkg.applocal.log"
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_48482.dir\\Debug\\cmTC_48482.tlog\\cmTC_48482.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-vlotli\\cmTC_48482.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_5acbf.dir\\Debug\\cmTC_5acbf.tlog\\cmTC_5acbf.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\Professional\\laba3_OOP\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mivy07\\cmTC_5acbf.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:05.23
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:04.25
         
       exitCode: 0
   -
