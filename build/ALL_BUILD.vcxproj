@@ -186,6 +186,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{4CB80881-456C-3814-BB0B-F8DCD627624D}</Project>
       <Name>unique</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\Professional\laba3_OOP\build\src\weak.vcxproj">
+      <Project>{8D0CA706-A3C7-3644-AA7E-56C652C794FA}</Project>
+      <Name>weak</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
