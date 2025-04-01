@@ -1,0 +1,10 @@
+^C:\USERS\PROFESSIONAL\LABA3_OOP\BUILD\CMAKEFILES\A5FBE4F07F57CE40634454D3738BD034\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Professional/laba3_OOP -BC:/Users/Professional/laba3_OOP/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Professional/laba3_OOP/build/laba3_OOP.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

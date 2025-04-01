@@ -1,0 +1,1 @@
+add_executable (hand hand_control.cpp)
