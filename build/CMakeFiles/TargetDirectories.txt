@@ -2,3 +2,4 @@ C:/Users/Professional/laba3_OOP/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/Professional/laba3_OOP/build/CMakeFiles/ZERO_CHECK.dir
 C:/Users/Professional/laba3_OOP/build/src/CMakeFiles/hand.dir
 C:/Users/Professional/laba3_OOP/build/src/CMakeFiles/unique.dir
+C:/Users/Professional/laba3_OOP/build/src/CMakeFiles/shared.dir

@@ -178,6 +178,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{BDEBEB25-3B82-3940-A1AF-EDFC73792C3C}</Project>
       <Name>hand</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\Professional\laba3_OOP\build\src\shared.vcxproj">
+      <Project>{D92C137E-599A-36F3-A8EA-A59CBBC4C680}</Project>
+      <Name>shared</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\Professional\laba3_OOP\build\src\unique.vcxproj">
       <Project>{4CB80881-456C-3814-BB0B-F8DCD627624D}</Project>
       <Name>unique</Name>
